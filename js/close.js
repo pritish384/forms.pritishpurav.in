@@ -1,1 +1,0 @@
-setTimeout(function(){self.close();},15000);
